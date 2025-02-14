@@ -13,4 +13,6 @@ The GitHub URL of the project's codebase.
 
 The API is built using Node.js and Express.js and is publicly deployed for easy access.
 
-Submission Deadline : 🕒 Thursday, February 6, 2025 - 11:59 PM (UTC+1)
+Deployment link: https://200-days-public-api-task-mkyz.vercel.app/
+
+Github Repo link: https://github.com/meriex/200DaysPublicAPITask.git
